@@ -9,7 +9,10 @@
 
 ### Accessibility
 
-Enter your reflections on this section here.
+- I decided to stick with the same approach as last time, and I worked along with the video.
+- The exercise, like with last week's, was very helpful. It is good to have a chance to put what we're learning in class to use in a guided manner. It is a good "training wheels" step toward doing it completely on our own. One thing that was helpful as a resource, in this case, was that the exercises playlist also contained recordings of the a11y lecture from a previous quarter. It was nice to have that available as a refresher.
+- Again, the content was explained very clearly.
+- I do not have any suggestions for improving coverage of the topic. I felt like it was conveyed well.
 
 ### CSS
 
