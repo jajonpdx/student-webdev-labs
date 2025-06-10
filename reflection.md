@@ -24,7 +24,10 @@
 
 ### CSS
 
-Enter your reflections on this section here.
+- I continued following along with the videos. They are very well organized and I find the directed learning approach to be very helpful for my learning style.
+- The exercises were very helpful. The media queries was particularly helpful for me. Setting the page size breakpoints and figuring out where to add the various styles (like making sure to design for mobile first and then editing from there) was really helpful to see a walkthrough of.
+- Everything was very clear.
+- Nothing comes to mind for more exercises to add to these labs.
 
 ### Flexbox
 
