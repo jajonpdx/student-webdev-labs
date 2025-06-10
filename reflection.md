@@ -59,8 +59,7 @@
 
 ### jQuery
 
-Enter your reflections on this section here.
-
-### Node.js
-
-Enter your reflections on this section here.
+- I followed along with the video again. These continue to be a valuable resource for me for success in this course.
+- I like that these exercises built on the JS exercises. It was a perfect illustration how they relate to each other and can be interchangeable. I think that impact would have been lost if we had just done other, unrelated examples with jQuery.
+- I thought the exercises and explanations were very clear.
+- I still don't have any suggestions for things to add. These exercises continue to be an important part of the learning process for these topics.
