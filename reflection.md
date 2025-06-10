@@ -31,7 +31,10 @@
 
 ### Flexbox
 
-Enter your reflections on this section here.
+- I very much appreciate having the videos to assist in the completion of these exercises. For this one, I did something similar to the earlier labs, where I played the video and then worked ahead of it, using the video to check my work. However, in this case, I was not being particularly successful in reproducing the screenshots, so I moved back to working along with the video.
+- These exercises were great! I liked that they were designed to address all of the common values for the flex options (direction, wrap, justify, align, height/width).
+- I have nothing to call out about needing to be explained better. I thought these were explaiend very clearly in the video.
+- I don't have any suggestions for anything to add.
 
 ### CSS Grid
 
