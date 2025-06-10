@@ -45,7 +45,10 @@
 
 ### Bootstrap
 
-Enter your reflections on this section here.
+- I worked along with the video again. I continue to find it to be the most effective way for me to practice the new material as it comes.
+- The exercises were very helpful. I liked how the professor referenced the BS documentation. It was good to see the step from finding the component you want to using the component that you want.
+- Nothing stood out as needing to be explained better.
+- There's nothing that stands out as needing improvement either.
 
 ### JavaScript
 
