@@ -38,7 +38,10 @@
 
 ### CSS Grid
 
-Enter your reflections on this section here.
+- I followed along with the video again.
+- The grid areas are so cool! What a great way to deal with page layout. So much better than the floats of yesteryear. These exercises were very helpful to "exercise" the concepts that were presented in the course.
+- One thing that I didn't get right away was that the grid template areas were mimicking the grid structure. For example, "section section" means that one section is spanning two columns, but I thought that it was denoting that there were two sections next to each other. It became clear to me what was going on during the third exercise though, which is another kudos for the thoroughness of the design of the exercises.
+- I don't have any suggestions for improvement in the presentation of these topics.
 
 ### Bootstrap
 
