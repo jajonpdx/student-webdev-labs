@@ -1,5 +1,13 @@
 ## Reflection Document
 
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+- Was there something that you wish had been explained better?
+
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+
 ### HTML
 
 - I played the videos and worked ahead of them. For example, I typed out the table code with the video playing, and then used the video to check my work. I found that I had forgotten to add a thead tag for the header section. This was helpful, because, when I got to the body section, I already knew not to skip the tbody tag.
@@ -15,5 +23,29 @@
 - I do not have any suggestions for improving coverage of the topic. I felt like it was conveyed well.
 
 ### CSS
+
+Enter your reflections on this section here.
+
+### Flexbox
+
+Enter your reflections on this section here.
+
+### CSS Grid
+
+Enter your reflections on this section here.
+
+### Bootstrap
+
+Enter your reflections on this section here.
+
+### JavaScript
+
+Enter your reflections on this section here.
+
+### jQuery
+
+Enter your reflections on this section here.
+
+### Node.js
 
 Enter your reflections on this section here.
