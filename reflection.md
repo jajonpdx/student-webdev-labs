@@ -52,7 +52,10 @@
 
 ### JavaScript
 
-Enter your reflections on this section here.
+- I definitely followed the videos for this one. The early exercises were very straightforward, but by the time we got to the functional section, I was very thankful to have the guidance of the video.
+- Again, the exercises were very helpful. I've worked with JS a bit before, so the early stuff felt trivial, but I really, really appreciated the break down of reduce!! The step-by-step build-up of the simpler case to the more complicated case with all of the fancy syntax was really well done.
+- I felt good about the information that was presented. I felt like it got me to where I need to be with the content.
+- No suggestions for improvement.
 
 ### jQuery
 
